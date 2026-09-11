@@ -1,6 +1,6 @@
 flask>=3.0
 flask-cors>=4.0
-mediapipe>=0.10
+mediapipe==0.10.21
 transformers>=4.40
 torch>=2.2
 Pillow>=10
